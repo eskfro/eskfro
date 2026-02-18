@@ -1,2 +1,1 @@
-## Hello
-I am a third year student at NTNU
+Third year student at NTNU
